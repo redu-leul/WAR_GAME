@@ -1,4 +1,4 @@
-# Stick War Mini Game (Java OOP Project)
+# War Mini Game (Java OOP Project)
 
 # Project Description
 This is a simple game inspired by *Stick War Legacy*.  
